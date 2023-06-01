@@ -11,11 +11,4 @@ if(num(n)) :
     print(f"{n}은 소수입니다.")
 else :
     print("소수가 아닙니다.")
-
-
-
-
-# def add (n) : 
-#    return n % 2 == 1 
-# def even (n) :
-#     return n % 2 == 0 
+    
